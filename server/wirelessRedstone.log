@@ -1,0 +1,575 @@
+
+1399389802248:INFO:SERVER:WirelessRedstone:Loading Properties.:ConfigStoreRedstoneWireless.getInstance->ConfigStoreRedstoneWireless.<init>->ConfigStoreRedstoneWireless.loadProperties
+1399389802249:DEBUG:SERVER:WirelessRedstone:Log.Level=INFO:WRCore.loadConfig->ConfigStoreRedstoneWireless.getInstance->ConfigStoreRedstoneWireless.get
+1399389880418:INFO:SERVER:RedstoneEther:remReceiver(world, -373, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880419:INFO:SERVER:RedstoneEther:addReceiver(world, -373, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880425:INFO:SERVER:RedstoneEther:remReceiver(world, -374, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880425:INFO:SERVER:RedstoneEther:addReceiver(world, -374, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880426:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880426:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880426:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880426:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880426:INFO:SERVER:RedstoneEther:remTransmitter(world, -363, 64, -596, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880426:INFO:SERVER:RedstoneEther:addTransmitter(world, -363, 64, -596, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880426:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, false):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880444:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880444:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880444:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880444:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880445:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880445:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880446:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880446:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880486:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880486:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 54, -535, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880856:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880856:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880856:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880856:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880856:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880856:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880856:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880857:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880857:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880857:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880857:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880857:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880857:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880861:INFO:SERVER:RedstoneEther:remTransmitter(world, -346, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880861:INFO:SERVER:RedstoneEther:addTransmitter(world, -346, 47, -530, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880861:INFO:SERVER:RedstoneEther:setTransmitterState(world, -346, 47, -530, 1002, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880866:INFO:SERVER:RedstoneEther:remReceiver(world, -337, 32, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880866:INFO:SERVER:RedstoneEther:addReceiver(world, -337, 32, -533, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880866:INFO:SERVER:RedstoneEther:remTransmitter(world, -347, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880866:INFO:SERVER:RedstoneEther:addTransmitter(world, -347, 47, -530, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880866:INFO:SERVER:RedstoneEther:setTransmitterState(world, -347, 47, -530, 1001, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880874:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880874:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -533, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880877:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -537, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880877:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -537, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880879:INFO:SERVER:RedstoneEther:remReceiver(world, -350, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880879:INFO:SERVER:RedstoneEther:addReceiver(world, -350, 54, -535, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880880:INFO:SERVER:RedstoneEther:remTransmitter(world, -345, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880880:INFO:SERVER:RedstoneEther:addTransmitter(world, -345, 47, -530, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880880:INFO:SERVER:RedstoneEther:setTransmitterState(world, -345, 47, -530, 1003, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880884:INFO:SERVER:RedstoneEther:remTransmitter(world, -348, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880884:INFO:SERVER:RedstoneEther:addTransmitter(world, -348, 47, -530, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880884:INFO:SERVER:RedstoneEther:setTransmitterState(world, -348, 47, -530, 1004, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880890:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880890:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880890:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880890:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880895:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880896:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880896:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880896:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880896:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880896:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880896:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880896:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880967:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880967:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880967:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -543, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880967:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -543, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880968:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880968:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -535, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880968:INFO:SERVER:RedstoneEther:remTransmitter(world, -335, 27, -524, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389880968:INFO:SERVER:RedstoneEther:addTransmitter(world, -335, 27, -524, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389880968:INFO:SERVER:RedstoneEther:setTransmitterState(world, -335, 27, -524, 1005, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389880968:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880968:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880968:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880968:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880968:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -565, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880968:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -565, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880968:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880968:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880969:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880969:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880969:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389880969:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389880985:INFO:SERVER:PacketWirelessTile:null - (-354,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389880985:INFO:SERVER:PacketWirelessTile:null - (-337,32,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389880985:INFO:SERVER:PacketWirelessTile:null - (-352,54,-537):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389880985:INFO:SERVER:PacketWirelessTile:null - (-350,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882482:INFO:SERVER:PacketWirelessTile:null - (-354,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882483:INFO:SERVER:PacketWirelessTile:null - (-346,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882483:INFO:SERVER:PacketWirelessTile:null - (-337,32,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882483:INFO:SERVER:PacketWirelessTile:null - (-347,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882483:INFO:SERVER:PacketWirelessTile:null - (-352,54,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882483:INFO:SERVER:PacketWirelessTile:null - (-352,54,-537):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882484:INFO:SERVER:PacketWirelessTile:null - (-350,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882484:INFO:SERVER:PacketWirelessTile:null - (-345,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882484:INFO:SERVER:PacketWirelessTile:null - (-348,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882644:INFO:SERVER:PacketWirelessTile:null - (-367,63,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882646:INFO:SERVER:PacketWirelessTile:null - (-321,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882660:INFO:SERVER:PacketWirelessTile:null - (-321,63,-543):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882660:INFO:SERVER:PacketWirelessTile:null - (-321,63,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882661:INFO:SERVER:PacketWirelessTile:null - (-335,27,-524):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882866:INFO:SERVER:PacketWirelessTile:null - (-374,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882866:INFO:SERVER:PacketWirelessTile:null - (-360,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882866:INFO:SERVER:PacketWirelessTile:null - (-367,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882867:INFO:SERVER:PacketWirelessTile:null - (-354,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882867:INFO:SERVER:PacketWirelessTile:null - (-360,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882867:INFO:SERVER:PacketWirelessTile:null - (-354,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882867:INFO:SERVER:PacketWirelessTile:null - (-347,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882867:INFO:SERVER:PacketWirelessTile:null - (-347,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882883:INFO:SERVER:PacketWirelessTile:null - (-314,62,-565):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882884:INFO:SERVER:PacketWirelessTile:null - (-314,62,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882884:INFO:SERVER:PacketWirelessTile:null - (-314,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389882884:INFO:SERVER:PacketWirelessTile:null - (-314,62,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883795:INFO:SERVER:PacketWirelessTile:null - (-373,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883815:INFO:SERVER:PacketWirelessTile:null - (-360,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883815:INFO:SERVER:PacketWirelessTile:null - (-360,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883815:INFO:SERVER:PacketWirelessTile:null - (-360,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883816:INFO:SERVER:PacketWirelessTile:null - (-367,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883816:INFO:SERVER:PacketWirelessTile:null - (-367,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883816:INFO:SERVER:PacketWirelessTile:null - (-354,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883816:INFO:SERVER:PacketWirelessTile:null - (-354,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883816:INFO:SERVER:PacketWirelessTile:null - (-354,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883817:INFO:SERVER:PacketWirelessTile:null - (-338,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883817:INFO:SERVER:PacketWirelessTile:null - (-338,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883818:INFO:SERVER:PacketWirelessTile:null - (-347,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883818:INFO:SERVER:PacketWirelessTile:null - (-347,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883819:INFO:SERVER:PacketWirelessTile:null - (-347,63,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883820:INFO:SERVER:PacketWirelessTile:null - (-323,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883820:INFO:SERVER:PacketWirelessTile:null - (-323,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883821:INFO:SERVER:PacketWirelessTile:null - (-331,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883822:INFO:SERVER:PacketWirelessTile:null - (-331,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389883822:INFO:SERVER:PacketWirelessTile:null - (-314,61,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884447:INFO:SERVER:PacketWirelessTile:null - (-360,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884447:INFO:SERVER:PacketWirelessTile:null - (-354,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884447:INFO:SERVER:PacketWirelessTile:null - (-363,64,-596):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884448:INFO:SERVER:PacketWirelessTile:null - (-338,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884448:INFO:SERVER:PacketWirelessTile:null - (-347,63,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884448:INFO:SERVER:PacketWirelessTile:null - (-323,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884448:INFO:SERVER:PacketWirelessTile:null - (-331,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389884448:INFO:SERVER:PacketWirelessTile:null - (-314,61,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389932398:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932398:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932398:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932399:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932399:INFO:SERVER:RedstoneEther:remTransmitter(world, -363, 64, -596, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399389932399:INFO:SERVER:RedstoneEther:addTransmitter(world, -363, 64, -596, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399389932399:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, false):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399389932429:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932429:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932429:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932429:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932430:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932430:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932430:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932430:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389932430:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399389932430:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399389937519:INFO:SERVER:PacketWirelessTile:null - (-360,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937519:INFO:SERVER:PacketWirelessTile:null - (-354,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937519:INFO:SERVER:PacketWirelessTile:null - (-363,64,-596):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937519:INFO:SERVER:PacketWirelessTile:null - (-338,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937519:INFO:SERVER:PacketWirelessTile:null - (-347,63,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937533:INFO:SERVER:PacketWirelessTile:null - (-323,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937533:INFO:SERVER:PacketWirelessTile:null - (-331,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399389937533:INFO:SERVER:PacketWirelessTile:null - (-314,61,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375851:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, true):BlockRedstoneWirelessT.onBlockRedstoneWirelessNeighborChange->BlockRedstoneWirelessT.setState->RedstoneEther.setTransmitterState
+1399390375937:INFO:SERVER:PacketWirelessTile:null - (-314,62,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-314,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-314,62,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-314,62,-565):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-363,64,-596):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-360,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-354,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-374,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-373,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-367,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-367,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375938:INFO:SERVER:PacketWirelessTile:null - (-360,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-360,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-360,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-354,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-354,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-354,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-367,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-360,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-360,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-354,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-354,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-367,63,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-347,63,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-338,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375939:INFO:SERVER:PacketWirelessTile:null - (-347,63,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-347,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-347,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-338,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-338,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-347,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-347,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-331,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-323,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-331,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-331,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-323,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-323,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-321,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-321,63,-543):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-321,63,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375940:INFO:SERVER:PacketWirelessTile:null - (-314,61,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390375941:INFO:SERVER:PacketWirelessTile:null - (-314,61,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399390645220:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -543, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645220:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -543, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645221:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645221:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -535, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645662:INFO:SERVER:RedstoneEther:remTransmitter(world, -346, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645662:INFO:SERVER:RedstoneEther:addTransmitter(world, -346, 47, -530, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645662:INFO:SERVER:RedstoneEther:setTransmitterState(world, -346, 47, -530, 1002, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645666:INFO:SERVER:RedstoneEther:remReceiver(world, -337, 32, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645666:INFO:SERVER:RedstoneEther:addReceiver(world, -337, 32, -533, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645666:INFO:SERVER:RedstoneEther:remTransmitter(world, -347, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645666:INFO:SERVER:RedstoneEther:addTransmitter(world, -347, 47, -530, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645666:INFO:SERVER:RedstoneEther:setTransmitterState(world, -347, 47, -530, 1001, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645673:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645673:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -533, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645673:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -537, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645673:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -537, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645675:INFO:SERVER:RedstoneEther:remReceiver(world, -350, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645675:INFO:SERVER:RedstoneEther:addReceiver(world, -350, 54, -535, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645675:INFO:SERVER:RedstoneEther:remTransmitter(world, -345, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645675:INFO:SERVER:RedstoneEther:addTransmitter(world, -345, 47, -530, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645675:INFO:SERVER:RedstoneEther:setTransmitterState(world, -345, 47, -530, 1003, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645676:INFO:SERVER:RedstoneEther:remTransmitter(world, -348, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:addTransmitter(world, -348, 47, -530, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:setTransmitterState(world, -348, 47, -530, 1004, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645676:INFO:SERVER:RedstoneEther:remTransmitter(world, -335, 27, -524, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:addTransmitter(world, -335, 27, -524, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:setTransmitterState(world, -335, 27, -524, 1005, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645676:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645676:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645676:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645676:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645676:INFO:SERVER:RedstoneEther:remTransmitter(world, -363, 64, -596, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:addTransmitter(world, -363, 64, -596, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399390645676:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399390645730:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645730:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 54, -535, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645733:INFO:SERVER:RedstoneEther:remReceiver(world, -374, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645733:INFO:SERVER:RedstoneEther:addReceiver(world, -374, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645733:INFO:SERVER:RedstoneEther:remReceiver(world, -373, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645733:INFO:SERVER:RedstoneEther:addReceiver(world, -373, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645733:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645733:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645733:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645733:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645734:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645734:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645735:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645735:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645736:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645736:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645737:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645737:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645737:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645737:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645738:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645738:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645738:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -565, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645738:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -565, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645738:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645738:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645739:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645739:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390645739:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399390645739:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399390919517:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, false):BlockRedstoneWirelessT.onBlockRedstoneWirelessNeighborChange->BlockRedstoneWirelessT.setState->RedstoneEther.setTransmitterState
+1399391621815:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, true):BlockRedstoneWirelessT.onBlockRedstoneWirelessNeighborChange->BlockRedstoneWirelessT.setState->RedstoneEther.setTransmitterState
+1399391664414:INFO:SERVER:PacketWirelessTile:null - (-321,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664414:INFO:SERVER:PacketWirelessTile:null - (-321,63,-543):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664415:INFO:SERVER:PacketWirelessTile:null - (-321,63,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664415:INFO:SERVER:PacketWirelessTile:null - (-346,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664415:INFO:SERVER:PacketWirelessTile:null - (-337,32,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664415:INFO:SERVER:PacketWirelessTile:null - (-347,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664415:INFO:SERVER:PacketWirelessTile:null - (-352,54,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664416:INFO:SERVER:PacketWirelessTile:null - (-352,54,-537):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664416:INFO:SERVER:PacketWirelessTile:null - (-350,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664416:INFO:SERVER:PacketWirelessTile:null - (-345,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664416:INFO:SERVER:PacketWirelessTile:null - (-348,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664416:INFO:SERVER:PacketWirelessTile:null - (-354,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664445:INFO:SERVER:PacketWirelessTile:null - (-367,63,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-360,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-367,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-360,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-354,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-354,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-347,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-347,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-314,62,-565):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664446:INFO:SERVER:PacketWirelessTile:null - (-314,62,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664472:INFO:SERVER:PacketWirelessTile:null - (-314,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664473:INFO:SERVER:PacketWirelessTile:null - (-314,62,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664473:INFO:SERVER:PacketWirelessTile:null - (-335,27,-524):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664498:INFO:SERVER:PacketWirelessTile:null - (-374,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-373,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-360,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-360,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-360,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-367,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-367,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-354,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-354,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664514:INFO:SERVER:PacketWirelessTile:null - (-354,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-338,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-338,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-347,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-347,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-347,63,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-323,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664515:INFO:SERVER:PacketWirelessTile:null - (-323,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664516:INFO:SERVER:PacketWirelessTile:null - (-331,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664516:INFO:SERVER:PacketWirelessTile:null - (-331,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664516:INFO:SERVER:PacketWirelessTile:null - (-314,61,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664558:INFO:SERVER:PacketWirelessTile:null - (-360,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664558:INFO:SERVER:PacketWirelessTile:null - (-354,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664558:INFO:SERVER:PacketWirelessTile:null - (-363,64,-596):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664566:INFO:SERVER:PacketWirelessTile:null - (-338,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664566:INFO:SERVER:PacketWirelessTile:null - (-347,63,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664567:INFO:SERVER:PacketWirelessTile:null - (-323,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664567:INFO:SERVER:PacketWirelessTile:null - (-331,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391664567:INFO:SERVER:PacketWirelessTile:null - (-314,61,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399391684550:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -543, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684550:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -543, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684551:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684551:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -535, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684573:INFO:SERVER:RedstoneEther:remTransmitter(world, -346, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684573:INFO:SERVER:RedstoneEther:addTransmitter(world, -346, 47, -530, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684573:INFO:SERVER:RedstoneEther:setTransmitterState(world, -346, 47, -530, 1002, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684575:INFO:SERVER:RedstoneEther:remReceiver(world, -337, 32, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684575:INFO:SERVER:RedstoneEther:addReceiver(world, -337, 32, -533, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684576:INFO:SERVER:RedstoneEther:remTransmitter(world, -347, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684576:INFO:SERVER:RedstoneEther:addTransmitter(world, -347, 47, -530, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684576:INFO:SERVER:RedstoneEther:setTransmitterState(world, -347, 47, -530, 1001, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684581:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -533, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684581:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -533, 1002):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684581:INFO:SERVER:RedstoneEther:remReceiver(world, -352, 54, -537, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684581:INFO:SERVER:RedstoneEther:addReceiver(world, -352, 54, -537, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684582:INFO:SERVER:RedstoneEther:remReceiver(world, -350, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684582:INFO:SERVER:RedstoneEther:addReceiver(world, -350, 54, -535, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684583:INFO:SERVER:RedstoneEther:remTransmitter(world, -345, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:addTransmitter(world, -345, 47, -530, 1003):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:setTransmitterState(world, -345, 47, -530, 1003, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684583:INFO:SERVER:RedstoneEther:remTransmitter(world, -348, 47, -530, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:addTransmitter(world, -348, 47, -530, 1004):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:setTransmitterState(world, -348, 47, -530, 1004, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684583:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684583:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684583:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684583:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684583:INFO:SERVER:RedstoneEther:remTransmitter(world, -363, 64, -596, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:addTransmitter(world, -363, 64, -596, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684583:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684609:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 54, -535, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684609:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 54, -535, 1001):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remTransmitter(world, -335, 27, -524, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.remTransmitter
+1399391684613:INFO:SERVER:RedstoneEther:addTransmitter(world, -335, 27, -524, 1005):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.addTransmitter
+1399391684613:INFO:SERVER:RedstoneEther:setTransmitterState(world, -335, 27, -524, 1005, true):TileEntityRedstoneWireless.g->BlockRedstoneWirelessT.changeFreq->RedstoneEther.setTransmitterState
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -374, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -374, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -373, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -373, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684613:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684613:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -360, 64, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -360, 64, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -354, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -354, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -367, 63, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -367, 63, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684614:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684614:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -597, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -597, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -338, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -338, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -585, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -585, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -591, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -591, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -347, 63, -566, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -347, 63, -566, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684615:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684615:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684616:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684616:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684616:INFO:SERVER:RedstoneEther:remReceiver(world, -323, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684616:INFO:SERVER:RedstoneEther:addReceiver(world, -323, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684616:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -579, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684616:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -579, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684616:INFO:SERVER:RedstoneEther:remReceiver(world, -331, 63, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684616:INFO:SERVER:RedstoneEther:addReceiver(world, -331, 63, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684617:INFO:SERVER:RedstoneEther:remReceiver(world, -321, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684617:INFO:SERVER:RedstoneEther:addReceiver(world, -321, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684617:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -593, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684617:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -593, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684617:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 61, -586, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684617:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 61, -586, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684617:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -565, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684617:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -565, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684617:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -573, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684617:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -573, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684618:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 63, -550, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684618:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 63, -550, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399391684618:INFO:SERVER:RedstoneEther:remReceiver(world, -314, 62, -558, ):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.remReceiver
+1399391684618:INFO:SERVER:RedstoneEther:addReceiver(world, -314, 62, -558, 6000):TileEntityRedstoneWireless.g->BlockRedstoneWirelessR.changeFreq->RedstoneEther.addReceiver
+1399392122016:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, false):BlockRedstoneWirelessT.onBlockRedstoneWirelessNeighborChange->BlockRedstoneWirelessT.setState->RedstoneEther.setTransmitterState
+1399392824521:INFO:SERVER:RedstoneEther:setTransmitterState(world, -363, 64, -596, 6000, true):BlockRedstoneWirelessT.onBlockRedstoneWirelessNeighborChange->BlockRedstoneWirelessT.setState->RedstoneEther.setTransmitterState
+1399393285041:INFO:SERVER:PacketWirelessTile:null - (-347,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285041:INFO:SERVER:PacketWirelessTile:null - (-347,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285042:INFO:SERVER:PacketWirelessTile:null - (-321,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285042:INFO:SERVER:PacketWirelessTile:null - (-367,63,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-360,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-367,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-354,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-360,64,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-354,63,-566):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-360,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-360,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-360,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-367,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285071:INFO:SERVER:PacketWirelessTile:null - (-367,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-354,64,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-354,64,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-354,64,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-338,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-338,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-347,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-347,63,-585):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285072:INFO:SERVER:PacketWirelessTile:null - (-347,63,-591):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285073:INFO:SERVER:PacketWirelessTile:null - (-323,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285073:INFO:SERVER:PacketWirelessTile:null - (-323,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285073:INFO:SERVER:PacketWirelessTile:null - (-331,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285073:INFO:SERVER:PacketWirelessTile:null - (-331,63,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285073:INFO:SERVER:PacketWirelessTile:null - (-314,61,-586):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285104:INFO:SERVER:PacketWirelessTile:null - (-314,62,-565):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285104:INFO:SERVER:PacketWirelessTile:null - (-314,62,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285105:INFO:SERVER:PacketWirelessTile:null - (-314,63,-550):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285105:INFO:SERVER:PacketWirelessTile:null - (-314,62,-558):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285105:INFO:SERVER:PacketWirelessTile:null - (-321,63,-543):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285105:INFO:SERVER:PacketWirelessTile:null - (-321,63,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-346,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-337,32,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-347,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-352,54,-533):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-352,54,-537):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-350,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-345,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285106:INFO:SERVER:PacketWirelessTile:null - (-348,47,-530):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285130:INFO:SERVER:PacketWirelessTile:null - (-354,54,-535):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285130:INFO:SERVER:PacketWirelessTile:null - (-374,63,-573):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285130:INFO:SERVER:PacketWirelessTile:null - (-373,63,-579):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-360,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-354,64,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-363,64,-596):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-338,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-347,63,-597):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285152:INFO:SERVER:PacketWirelessTile:null - (-323,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285153:INFO:SERVER:PacketWirelessTile:null - (-331,63,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393285153:INFO:SERVER:PacketWirelessTile:null - (-314,61,-593):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>
+1399393286474:INFO:SERVER:PacketWirelessTile:null - (-335,27,-524):TileEntityRedstoneWireless.l->TileEntityRedstoneWireless.getUpdatePacket->PacketWirelessTile.<init>

@@ -1,0 +1,1 @@
+"%programfiles%\Java\jre7\bin\javaw.exe" -Xms2048M -Xmx2048M -jar minecraft_server.jar gui
